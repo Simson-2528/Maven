@@ -43,6 +43,7 @@ public class ReadData {
 				
 				
 				}
+			System.out.println("succesfully impored files");
 			
 			
 		}
